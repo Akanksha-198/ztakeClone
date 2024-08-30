@@ -1,0 +1,321 @@
+*{
+  margin:0px;
+  padding:0px;
+  text-decoration: none;
+}
+
+.nav-title{
+  background-color: #3f3cd8;
+    text-align: center;
+    padding: 15px 40px;
+    position: relative;
+    color: #fff;
+    border: 0;
+    justify-content: center;
+
+}
+.introduction-text{
+  font-size: 17px;
+  text-align: center;
+  padding: 15px;
+  font-family: sans-serif;
+  padding-left: 5px;
+
+}
+
+.nav-links-container{
+  display: flex;
+}  
+.logo{
+  display: flex;
+  align-items: right;
+  /* background-color: blueviolet; */
+  height: 65px;
+
+}
+.logo-img{
+  width: 46px;
+  height: 41px;
+  /* margin:18px; */
+  margin-bottom:10px;
+  margin-top:15px;
+  margin-left:200px;
+}
+.logo-text{
+  font-size: 29px;
+  font-weight: bolder;
+  color: #3f3cd8;
+  margin-top: 23px;
+  margin-left: 12px;
+  font-family: sans-serif;
+
+}
+.nav-links{
+    margin-right: 0px;
+    width:100%;
+    height: 63px;
+    margin-right: 155px;
+}
+.link-stylee{
+  height: 38px;
+  width: 90%;
+  float: right;
+  text-align: right;
+  margin-top:20px;
+  margin-right: 44px;
+}
+.link{
+  font-weight:bold;
+  color: #1d0055;
+  font-size:21px;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+  margin: 4px 10px;
+  font-family: sans-serif;
+
+}
+.telegram-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px; /* Width of the circle */
+  height: 50px; /* Height of the circle */
+  border-radius: 50%; /* Makes the icon circular */
+  background-color: #3f3cd8; /* Background color */
+  color:white; /* Icon color */
+  font-size: 40px; /* Icon size */
+  cursor: pointer;
+  margin-top: 0px;
+
+
+}
+
+
+.twitter-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px; /* Width of the circle */
+  height: 40px; /* Height of the circle */
+  border-radius: 50%; /* Makes the icon circular */
+  background-color: white; /* Background color */
+  color: #3f3cd8; /* Icon color */
+  font-size: 30px; /* Icon size */
+  cursor: pointer;
+}
+
+.sign-box{
+  padding: 40px;
+  height:60px;
+  background-color:#f3f8fe;
+  text-align: center;
+}
+.sign-text{
+  font-size: 27px;
+  font-weight: bold;
+  color: #1d0055;
+  margin-bottom: 20px;
+  font-family:Medium;
+  margin: 10px;
+
+}
+.sign-input{
+  height:55px;
+  width:12px;
+  background-color: rgb(215, 44, 133);
+
+}
+.inputbox{
+  height:45px;
+  width:305px;
+  font-size:25px;
+  border-radius:45px;
+  padding-left: 15px;
+  border:2px solid rgb(214, 212, 212);
+
+
+
+}
+.sign-button{
+  height:45px;
+  width:200px;
+  font-size:25px;
+  border-radius:45px;
+  padding-left: 15px;
+  margin-left: 10px;
+  background-color: #3f3cd8;
+  color: white;
+  border:none;
+  cursor: pointer;
+
+}
+.copyright{
+  background-color: #3330ae;
+  height: 100px;
+}
+.heading-4{
+  margin-left:18px;
+  color:rgb(244, 244, 244);
+  padding-top: 14px;
+  margin-left:185px;
+  font-family:Medium;
+
+}
+.copy-text{
+  color: rgb(189, 176, 176);
+  font-size: 12px;
+  font-weight: bold;
+  margin-left:185px;
+  margin-right:185px;
+
+
+  font-family:Medium;
+
+
+}
+/* .copyright-text{
+  color: rgb(189, 176, 176);
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+
+  font-family:Arial, Helvetica, sans-serif;
+} */
+
+.social-media-icons{
+  height: 95px;
+  display: flex;
+  background-color:#3f3cd8;
+
+}
+.logo2-img{
+  width: 158px;
+  /* margin:18px; */
+  margin-bottom:25px;
+  margin-top:25px;
+  margin-left:200px;
+  margin-right:200px;
+
+}
+.based{
+  color: white;
+  margin-bottom:5px;
+  margin-top:43px;
+  margin-left:155px;
+  margin-right:200px;
+
+  font-size: 22px;
+  
+
+}
+.social-media{
+  margin-bottom:25px;
+  margin-top:25px;
+  margin-left:200px;
+
+}
+
+.portfolio-box{
+  padding: 40px;
+
+
+ 
+}
+
+.big-head{
+    height: 45px;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: .7px;
+    color: #1d0055;
+    font-family:Medium;
+    margin-left:185px;
+
+ 
+}
+.big-box-containe{
+  margin-left:150px;
+
+}
+.big-box{
+
+  width:299px;
+  height: 150px;
+  border: 4px solid #e4e3f0;
+  border-radius:10px;
+  padding: 10px;
+  margin:39px;
+  display:inline-flex;
+}
+.box-image{
+  width: 100px;
+  height:100px;
+  display: flex;
+  margin-top: 20px;
+  margin-left: 10px;
+  border-radius: 4px;
+}
+.logo-img-box{
+  width:100px;
+  border-radius: 4px;
+
+
+}  
+   
+
+.box-container{
+  flex-wrap: wrap;
+  margin-top:20px;
+  margin-right: 10px;
+  margin-left: 65px;
+
+}
+.heading-3{
+    font-size: 25px;
+    font-weight: 700px;
+    letter-spacing: .4px;
+    color: #1e1c66;
+    margin-bottom: 25px;
+}
+.status-box1{
+    letter-spacing: .3px;
+    color: #4b5378;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.status-box2{
+  font-size: 20px;
+    font-weight: bold;
+    letter-spacing: .4px;
+    color: #3f3cd8;
+    font-family:Courier;
+} 
+.cosmo{
+  display: inline-flex;
+}
+.big-box:hover {
+  background-color: #3f3cd8;
+}
+.big-box:hover .heading-3{
+  color:white;
+}
+
+.big-box:hover .status-box1{
+  color:rgb(190, 193, 220);
+}
+
+.big-box:hover .status-box2{
+  color:white;
+}
+.big-box:hover .box-image{
+  background-color: white;
+}
+
+
+.link:active{
+  text-decoration: underline;
+
+}
+
+

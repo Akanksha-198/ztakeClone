@@ -1,0 +1,135 @@
+.menu-data{
+  margin-top: 45px;
+  margin-left: 200px;
+  margin-bottom: 135px;
+
+}
+.home{
+  display: flex;
+  /* justify-content: space-between; */
+
+}
+.left-home{
+  width:650px;
+
+}
+.home-heading{
+  margin:20px;
+  font-size: 55px;
+  font-weight: 500;
+  line-height: 1.33;
+  letter-spacing: .9px;
+  color: #1d0055;
+  margin-bottom: 41px;
+}
+.home-heading2{
+  font-size: 20px;
+    font-weight:bolder;
+    line-height: 2;
+    letter-spacing: .4px;
+    color: #1d0055;
+    margin-bottom: 30px;
+    max-width: 310px;
+    margin:20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.home-content{
+  margin:20px;
+  font-size: 17px;
+  line-height: 2.14;
+  color: #4b5378;
+
+
+}
+.right-home{
+  height:430px;
+  display: flex;
+  margin-left: 20px;
+  margin-top: 25px;
+  margin-right: 45px;
+
+}
+.home-img{
+  height: 455px;
+  padding-left:5px;
+
+}
+.home-button{
+  height:45px;
+  width:200px;
+  font-size:25px;
+  border-radius:45px;
+  padding-left: 15px;
+  margin-left: 10px;
+  background-color: #3f3cd8;
+  color: white;
+  border:none;
+  cursor: pointer;
+
+}
+.staking{
+  display: flex;
+  /* justify-content: space-between; */
+
+}
+.left-stak{
+  margin-left: 20px;
+  margin-right:55px;
+
+
+
+}
+.right-stak{
+  margin-left:10px;
+  margin-right:55px;
+}
+.theory-stack{
+  width: 445px;
+  height: 75px;
+  border:4px solid rgb(143, 151, 201);
+  border-radius:25px;
+  margin:20px;
+  font-size: 17px;
+  color: #24252b;
+  padding: 25px;
+}
+.theory-cosmo{
+  width: 445px;
+  height: 375px;
+  border:4px solid rgb(143, 151, 201);
+  border-radius:25px;
+  margin:20px;
+  font-size: 17px;
+  color: #24252b;
+  padding: 25px;
+  display: flex;
+
+}
+.theory-partner{
+  width: 445px;
+  height: 375px;
+  border:4px solid rgb(143, 151, 201);
+  border-radius:25px;
+  font-size: 17px;
+  color: #24252b;
+  padding: 25px;
+
+}
+.part-heading2{
+  font-size:17px;
+    font-weight:lighter;
+    line-height: 2;
+    letter-spacing: .4px;
+    color: #0c031f;
+    margin-bottom: 30px;
+    max-width: 310px;
+    margin:10px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.th-part{
+  font-weight: 100px;
+  color: #9291c1;
+}
+
