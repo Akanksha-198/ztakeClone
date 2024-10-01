@@ -1,4 +1,9 @@
  homecall();
+const inputBox=document.querySelector(".inputbox");
+ const subBtn=document.querySelector(".sign-button");
+ subBtn.addEventListener("click",()=>{
+   alert(` Subscribed By =>${inputBox.value}`)
+ });
 
 
 
